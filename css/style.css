@@ -1,0 +1,47 @@
+.body{
+	margin: 0;
+	padding: 0;
+	}
+.header {
+	    width: 100%;
+    height: 20%;
+    overflow: hidden;
+    background: green;
+}
+
+.bar {
+}
+
+.logo {width: 23%;float: left;/* display: block; */}
+
+.login {
+	    padding: 20px;
+    float: right;
+}
+
+.main {
+}
+
+.container {
+}
+
+.pic {
+}
+
+.form-box {
+}
+
+.form-entry {
+}
+
+.bottom {
+}
+
+.putter {
+}
+
+.bot {
+}
+
+.links {
+}
